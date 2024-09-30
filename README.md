@@ -8,8 +8,7 @@
     <br> <br>
     Me esfuerzo por aprender y mejorar constantemente. Mi meta es trabajar de forma independiente mientras viajo con mi perrito 
     <i class="fas fa-paw"></i>. Creo que la <code class="code-highlight">&lt;informática&gt;</code> ofrece muchas oportunidades para quienes tienen pasión por ella.
-    <br> <br>
-    Para más detalles sobre mi trayectoria, descarga mi CV:
+    <br>
 </p>
 
 
