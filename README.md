@@ -66,6 +66,6 @@ Hi, I'm Patricio Labra!
 </p>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://github.com/PatricioLabra/PatricioLabra/output/snake.svg" alt="GitHub Snake" />
 </p>
+
