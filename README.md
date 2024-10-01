@@ -14,7 +14,7 @@ Hi, I'm Patricio Labra!
 
 ```
 💻 I am a Software Engineer and Developer
-📚 Civil Computer Engineer from the Pontifical Catholic University of Valparaíso.
+📚 Civil Computer Engineer from the Pontifical Catholic University of Valparaíso
 🔭 Working on personal projects
 🌱 Exploring various development tools and languages
 🌟 Main languages: Python, JavaScript
