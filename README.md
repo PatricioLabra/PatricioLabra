@@ -13,14 +13,14 @@ Hi, I'm Patricio Labra!
 <hr>
 
 ```
-💻 I am a Software Engineer and Development
-📚 I have a degree in Computer Science from the Pontificia Universidad Católica of Valparaíso
+💻 I am a Software Engineer and Developer
+📚 Degree in Computer Science from Pontificia Universidad Católica de Valparaíso  
 🔭 Working on personal projects
 🌱 Exploring various development tools and languages
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Development
 🚀 Looking to start my own venture
-🎵 Love Rock, metal, pop and soft music
+🎵 Love rock, metal, pop, and soft music
 ```
 <hr>
 
