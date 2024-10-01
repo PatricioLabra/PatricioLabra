@@ -13,15 +13,14 @@ Hi, I'm Patricio Labra!
 <hr>
 
 ```
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+💻 I am a Software Engineer and Development
+📚 I have a degree in Computer Science from the Pontificia Universidad Católica of Valparaíso
+🔭 Working on personal projects
+🌱 Exploring various development tools and languages
 🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🚩 Interested in Full Stack Development
+🚀 Looking to start my own venture
+🎵 Love Rock, metal, pop and soft music
 ```
 <hr>
 
