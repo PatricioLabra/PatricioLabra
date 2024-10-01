@@ -65,7 +65,3 @@ Hi, I'm Patricio Labra!
 </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/PatricioLabra/PatricioLabra/output/snake.svg" alt="GitHub Snake" />
-</p>
-
