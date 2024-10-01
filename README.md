@@ -9,7 +9,7 @@ Hi, I'm Patricio Labra!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software-Engineer;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/PatricioLabra/PatricioLabra/blob/main/imagen_2024-10-01_003642113.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="230"/>
+<img align="left" src="https://github.com/PatricioLabra/PatricioLabra/blob/main/imagen_2024-10-01_003642113.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="225"/>
 <hr>
 
 ```
@@ -22,7 +22,6 @@ Hi, I'm Patricio Labra!
 🚀 Looking to start my own venture
 🎵 Love rock, metal, pop, and soft music
 ```
-<hr>
 <hr>
 
 ### 🤝🏻 &nbsp;Connect with Me
