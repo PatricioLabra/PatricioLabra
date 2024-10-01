@@ -64,3 +64,8 @@ Hi, I'm Patricio Labra!
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PatricioLabra&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
