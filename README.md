@@ -23,7 +23,7 @@ Hi, I'm Patricio Labra!
 🎵 Love rock, metal, pop, and soft music
 ```
 <hr>
-
+<hr>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
