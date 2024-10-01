@@ -27,7 +27,13 @@ Hi, I'm Patricio Labra!
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/patricio.labra/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patricio-labra-verdugo) 
+<p align="center">
+<a href="https://www.patriciolabra.com"><img src="https://img.shields.io/badge/Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/patricio-labra-verdugo"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:patricio.labra827@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/patricio.labra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/patricioalejandro.labraverdugo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
